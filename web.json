@@ -6,6 +6,6 @@
 	},
 
 	"run_list": [
-		"recipe[proftpd]"
+		"recipe[proftpd-ii]"
 	]
 }
